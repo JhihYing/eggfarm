@@ -13,11 +13,10 @@
 
 
 ## Demo
-https://jhihying.github.io/eggfarm/
+- https://jhihying.github.io/eggfarm/
 
 
 ## 使用技術 / 套件 / 工具
-### 前端
 - 以 手刻 的方式來 開發 UI 介面
 - RWD 斷點：576、768、992、1200 (px)
 
