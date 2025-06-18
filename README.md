@@ -11,7 +11,7 @@
 
 
 ## Demo
-- https://jhihying.github.io/eggfarm/
+- [橘屋 x 養雞場 (純切版）](https://jhihying.github.io/eggfarm/)
 
 
 ## 使用技術 / 套件
